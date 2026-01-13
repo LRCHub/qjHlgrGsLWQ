@@ -1,0 +1,72 @@
+# Simple Plan – Summer Paradise（feat. Taka from ONE OK ROCK）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.46] O la da da dada
+[00:11.66] Yeah me and you in summer paradise
+[00:14.64] My heart is sinking as I'm lifting
+[00:20.31] Up, up, up above the clouds away from you
+[00:25.57] And I can't believe I'm leaving
+[00:30.11] Oh I don't kno-kno-know what I'm gonna do
+[00:36.83] But, someday
+[00:39.94] I will find my way back to
+[00:42.34] Where your name is written in the sand
+[00:49.61] 'Cause I remember every sunset (I remember)
+[00:53.05] I remember every word you said
+[00:55.78] We were never gonna say good bye (Good bye)
+[00:59.13] Singing la da da da
+[01:01.46] Tell me how to get back to (Back to)
+[01:04.15] Back to summer paradise with you
+[01:08.39] And I'll be there in a heartbeat
+[01:10.62] I'll be there I'll be there I'll be there
+[01:13.76] I'll be there in a heartbeat
+[01:16.27] And I'll be there I'll be there I'll be there
+[01:20.05] My soul is broken
+[01:23.36] Streets are frozen
+[01:26.00] I can't stop this feelings melting through (Mmm)
+[01:31.17] And I'd give away a thousand days
+[01:36.63] Oh, just to have another one with you (With you)
+[01:41.70] Where real life can wait (Real life can wait)
+[01:44.57] We're crashing like waves (Crashing like waves)
+[01:47.55] Playing in the sand (Playing in the sand)
+[01:50.32] Holding your hands
+[01:53.80] 'Cause I remember every sunset (I remember)
+[01:57.15] I remember every word you said
+[01:59.71] We were never gonna say good bye (Good bye)
+[02:03.17] Singing la da da da
+[02:05.61] Tell me how to get back to (Back to)
+[02:08.36] Back to summer paradise with you
+[02:12.49] And I'll be there in a heartbeat
+[02:14.99] I'll be there I'll be there I'll be there
+[02:17.97] I'll be there in a heartbeat
+[02:20.61] And I'll be there I'll be there I'll be there
+[02:24.43] My memories are reminding me
+[02:27.42] The perfect night on the perfect beach
+[02:30.11] あの日の記憶をかき集めたとこで戻れやしない
+[02:35.88] The season's not the reason why
+[02:38.91] I fell in love with you in paradise
+[02:41.25] 君が僕を思い出すたびに
+[02:45.25] And I'll be there in a heartbeat
+[02:47.55] Someday
+[02:50.05] I will find my way back to
+[02:52.38] Where your name is written in the sand (Yeah, yeah, yeah...)
+[03:00.72] 'Cause I remember every sunset (I remember)
+[03:04.52] I remember every word you said
+[03:07.03] We were never gonna say good bye (Good bye, good bye)
+[03:10.98] Singing la da da dada
+[03:12.83] Tell me how to get back to (Back to)
+[03:15.40] Back to summer paradise with you
+[03:19.52] And I'll be there in a heartbeat
+[03:21.23] I remember when we first kissed (Oh)
+[03:24.18] How I didn't wanna leave your lips
+[03:26.67] And how I've never ever felt so high (So high)
+[03:30.15] Singing la da da dada
+[03:32.29] Tell me how to get back to (back to)
+[03:34.93] Back to summer paradise with you
+[03:39.17] And I'll be there in a heartbeat
+[03:41.56] I'll be there I'll be there, I'll be there
+[03:44.75] I'll be there in a heartbeat
+[03:47.23] And I'll be there I'll be there I'll be there
+[03:50.55] I'll be there in a heartbeat
+```
