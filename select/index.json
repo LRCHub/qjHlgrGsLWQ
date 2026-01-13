@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Summer Paradise（feat. Taka from ONE OK ROCK）",
+  "base_artist": "Simple Plan",
+  "createdAt": "2026-01-13T09:52:53.634528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/01_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/03_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan; Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan;_Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan feat. Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan_feat._Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "Simple Plan/Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_Simple_Plan_Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "Simple Plan",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_Simple_Plan.txt"
+    }
+  ]
+}
